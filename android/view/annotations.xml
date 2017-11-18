@@ -1,0 +1,5 @@
+<root>
+    <item name='android.view.ContextThemeWrapper android.content.res.Resources getResources()'>
+        <annotation name='android.support.annotation.NonNull' />
+    </item>
+</root>
